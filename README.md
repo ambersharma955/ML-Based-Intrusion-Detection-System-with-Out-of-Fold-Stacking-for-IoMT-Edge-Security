@@ -1,0 +1,2 @@
+# ML-Based-Intrusion-Detection-System-with-Out-of-Fold-Stacking-for-IoMT-Edge-Security
+The project is designed with edge security in mind, where efficient and reliable intrusion detection is critical for protecting connected medical devices and sensitive healthcare data. It can be extended to evaluate different attack categories, datasets, feature-selection techniques, and machine learning algorithms.
